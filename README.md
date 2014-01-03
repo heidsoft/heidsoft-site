@@ -16,8 +16,8 @@ http://wiki.qemu.org/Main_Page
 ##大数据##
 http://hortonworks.com/  
 http://hadoop.intel.com/
-##Linux##
-##新闻##
+http://cloudera.com/content/cloudera/en/home.html  
 ##博客##
-##编程语言##
-##安全研究##
+http://www.linkedin.com/  
+##图书分类##
+http://www.oreilly.com/
