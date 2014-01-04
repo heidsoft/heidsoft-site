@@ -21,3 +21,5 @@ http://cloudera.com/content/cloudera/en/home.html
 http://www.linkedin.com/  
 ##图书分类##
 http://www.oreilly.com/
+##Github上的公司##
+https://github.com/GoogleCloudPlatform
