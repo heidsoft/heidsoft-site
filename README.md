@@ -1,7 +1,7 @@
 LikeSite
 ========
 
-我喜欢的网站
+收集有用的链接并进行分类，以便后期复用
 
 ##项目托管##
 https://gitorious.org/  
@@ -23,3 +23,7 @@ http://www.linkedin.com/
 http://www.oreilly.com/
 ##Github上的公司##
 https://github.com/GoogleCloudPlatform
+##开源社区##
+https://github.com/apache
+##研发机构##
+http://idl.baidu.com/index.html
