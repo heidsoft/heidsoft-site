@@ -28,6 +28,7 @@ https://github.com/apache
 ##研发机构##
 * http://idl.baidu.com/index.html
 * http://www.searchtb.com/
+
 ##CentOs镜像地址##
 http://mirror.bit.edu.cn/centos/6.3/os/x86_64/   
 http://mirrors.163.com/centos/6.3/os/x86_64/  
