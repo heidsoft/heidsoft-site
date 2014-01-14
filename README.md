@@ -51,3 +51,6 @@ http://centos.chlux.co.kr/6.3/os/x86_64/
 http://ftp.daum.net/centos/6.3/os/x86_64/  
 http://mirror.yongbok.net/centos/6.3/os/x86_64/  
 
+##分布式文件系统##
+* [ocfs2](https://oss.oracle.com/projects/)
+
