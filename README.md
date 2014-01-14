@@ -29,28 +29,6 @@ https://github.com/apache
 * http://idl.baidu.com/index.html
 * http://www.searchtb.com/
 
-##CentOs镜像地址##
-http://mirror.bit.edu.cn/centos/6.3/os/x86_64/   
-http://mirrors.163.com/centos/6.3/os/x86_64/  
-http://mirrors.neusoft.edu.cn/centos/6.3/os/x86_64/  
-http://mirror.neu.edu.cn/centos/6.3/os/x86_64/  
-http://mirrors.stuhome.net/centos/6.3/os/x86_64/  
-http://mirrors.btte.net/centos/6.3/os/x86_64/  
-http://mirrors.grandcloud.cn/centos/6.3/os/x86_64/  
-http://mirrors.ta139.com/centos/6.3/os/x86_64/  
-http://centos.ustc.edu.cn/centos/6.3/os/x86_64/  
-http://ftp.stu.edu.tw/Linux/CentOS/6.3/os/x86_64/  
-http://mirror01.idc.hinet.net/CentOS/6.3/os/x86_64/  
-http://ftp.cs.pu.edu.tw/Linux/CentOS/6.3/os/x86_64/  
-http://ftp.twaren.net/Linux/CentOS/6.3/os/x86_64/  
-http://ftp.nsysu.edu.tw/CentOS/6.3/os/x86_64/  
-http://ftp.stust.edu.tw/pub/Linux/CentOS/6.3/os/x86_64/  
-http://centos.tt.co.kr/6.3/os/x86_64/  
-http://data.nicehosting.co.kr/os/CentOS/6.3/os/x86_64/  
-http://centos.chlux.co.kr/6.3/os/x86_64/  
-http://ftp.daum.net/centos/6.3/os/x86_64/  
-http://mirror.yongbok.net/centos/6.3/os/x86_64/  
-
 ##分布式文件系统##
 * [ocfs2](https://oss.oracle.com/projects/)
 
