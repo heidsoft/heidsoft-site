@@ -6,25 +6,32 @@ LikeSite
 ##项目托管##
 * https://gitorious.org/  
 * https://git.oschina.net/
+
 ##git学习##
 * http://gitbook.liuhui998.com/index.html  
 * http://rogerdudler.github.io/git-guide/index.zh.html
+
 ##虚拟化##
 * http://www.linux-kvm.org/page/Main_Page  
 * http://wiki.qemu.org/Main_Page
+
 ##大数据##
 * http://hortonworks.com/  
 * http://hadoop.intel.com/
 * http://cloudera.com/content/cloudera/en/home.html  
+
 ##博客##
 * http://www.linkedin.com/  
+
 ##图书##
 * http://www.oreilly.com/
+
 ##Github公司项目##
 * https://github.com/GoogleCloudPlatform
 ##Apache##
 * https://github.com/apache
 * http://flume.apache.org/index.html
+
 ##研发机构##
 * http://idl.baidu.com/index.html
 * http://www.searchtb.com/
