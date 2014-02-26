@@ -14,6 +14,7 @@ LikeSite
 ##虚拟化##
 * http://www.linux-kvm.org/page/Main_Page  
 * http://wiki.qemu.org/Main_Page
+* http://www.ibm.com/developerworks/cn/aix/library/au-aixhpvirtualization/#ibm-pcon
 
 ##大数据##
 * http://hortonworks.com/  
