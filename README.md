@@ -16,6 +16,9 @@ LikeSite
 * http://wiki.qemu.org/Main_Page
 * http://www.ibm.com/developerworks/cn/aix/library/au-aixhpvirtualization/#ibm-pcon
 
+##云计算##
+* http://www.scalr.com/
+
 ##大数据##
 * http://hortonworks.com/  
 * http://hadoop.intel.com/
